@@ -1,4 +1,4 @@
-# FinoStep – AI-Powered Financial Advisor for All 🌍💸
+# FinoStep – AI-Powered Financial Advisor for All 💸
 
 FinoStep is a free and accessible **AI-powered financial advisory and education platform** designed to empower individuals—especially those in **rural and underserved communities**—with **personalized financial advice**, **localized learning modules**, and **culturally relevant resources**. It bridges the gap between financial illiteracy and informed financial decisions by combining **AI**, **interactive learning**, and **multilingual support**.
 
