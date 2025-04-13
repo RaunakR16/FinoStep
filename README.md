@@ -22,17 +22,6 @@ FinoStep is a free and accessible **AI-powered financial advisory and education 
 - **📈 Financial Dashboard & Progress Tracker**  
   Users can set financial goals and monitor their progress over time with visual feedback and savings forecasts.
 
----
-
-## 🏗️ Architecture Overview
-
-```
-User Input --> Prompt Engine --> AI Model --> Vision Vectorization -->
-Vector Similarity Matching --> Response Formatter --> Output to User -->
-User Feedback --> AI Refinement
-```
-
-Detailed architecture & flowchart available in submission docs.
 
 ---
 
