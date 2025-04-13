@@ -1,4 +1,3 @@
-
 # FinoStep – AI-Powered Financial Advisor for All 🌍💸
 
 FinoStep is a free and accessible **AI-powered financial advisory and education platform** designed to empower individuals—especially those in **rural and underserved communities**—with **personalized financial advice**, **localized learning modules**, and **culturally relevant resources**. It bridges the gap between financial illiteracy and informed financial decisions by combining **AI**, **interactive learning**, and **multilingual support**.
@@ -53,23 +52,8 @@ Detailed architecture & flowchart available in submission docs.
 
 ## 🧪 Prototype
 
-- **Website Screenshots**:  
-  Landing Page, Chatbot (Megan), Courses, Blog – [Google Drive](https://drive.google.com/drive/folders/1hgQ6e3v1qyZznvhDlqkDN_j72vSmB5Kf?usp=sharing)
-
 - **Demo Video**:  
   [Watch Demo](https://drive.google.com/drive/folders/1hgQ6e3v1qyZznvhDlqkDN_j72vSmB5Kf?usp=sharing)
-
----
-
-## 👨‍💻 Team FinoStep
-
-| Name         | Role            | Skills |
-|--------------|------------------|--------|
-| **Dhrubo Ghosh** | Backend & DB Management | AI/ML, DBMS, Java, Security |
-| **Raunak Das** | Backend Developer | APIs, Chatbot Dev, Cloud, AI/ML |
-| **Silpa Mondal** | Frontend Developer | UI/UX, MongoDB, Web Dev |
-
-📍 College: Heritage Institute of Technology
 
 ---
 
@@ -103,18 +87,3 @@ Detailed architecture & flowchart available in submission docs.
 ├── README.md
 └── ...
 ```
-
----
-
-## 🔗 Links
-
-- **GitHub Repo**: [https://github.com/Dhrubo04/FinoStep/tree/main](https://github.com/Dhrubo04/FinoStep/tree/main)  
-- **Demo Assets & Screenshots**: [Google Drive](https://drive.google.com/drive/folders/1hgQ6e3v1qyZznvhDlqkDN_j72vSmB5Kf?usp=sharing)
-
----
-
-## 📬 Contact Us
-
-- 📧 raunakdas.2020@gmail.com  
-- 📧 silpa2004mondal@gmail.com  
-- 📧 dhruboghosh0606@gmail.com
