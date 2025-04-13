@@ -2,7 +2,6 @@
 
 FinoStep is a free and accessible **AI-powered financial advisory and education platform** designed to empower individuals—especially those in **rural and underserved communities**—with **personalized financial advice**, **localized learning modules**, and **culturally relevant resources**. It bridges the gap between financial illiteracy and informed financial decisions by combining **AI**, **interactive learning**, and **multilingual support**.
 
-> 💡 **Built for EY Techathon 5.0 | Final Submission Date: 12-01-2025**
 
 ---
 
